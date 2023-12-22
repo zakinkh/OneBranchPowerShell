@@ -4,4 +4,4 @@
 
 $Global:WelcomePlease = $true
 $Global:MyTextEditor = "C:\Program Files\Notepad++\notepad++.exe"
-$Global:LocalPackageDir = "\\DESKTOP-8O6AK0R\Packages"	
+$Global:LocalPackageDir = ""	
