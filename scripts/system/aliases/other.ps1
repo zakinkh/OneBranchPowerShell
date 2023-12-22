@@ -7,7 +7,7 @@ function global:obpsroot {
 }
 
 function global:obpsorigin {
-    explorer "https://dhratho.visualstudio.com/OnebranchPS/"
+    explorer "https://github.com/zakinkh/OneBranchPowerShell"
 }
 
 function global:obpsdoc {
