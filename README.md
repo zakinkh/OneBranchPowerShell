@@ -4,7 +4,7 @@ OnebranchPS tries to cover all basic features and aliases provided by Onebranch 
 
 ## Setup
 - Clone this repo to your local machine.  
-`git clone https://dhratho.visualstudio.com/_git/OnebranchPS`
+`git clone https://github.com/zakinkh/OneBranchPowerShell.git`
 - Go to local cloned directory and run script `setup.ps1` in powershell (Preferably in non-admin mode)
 - Copy shortcut `sample` (The one included in this directory with name `sample.lnk`) to your favourite location 
 - Update following fields in `sample` shortcut:
